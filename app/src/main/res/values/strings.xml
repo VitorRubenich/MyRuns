@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyRuns</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_sign_in">SIGN IN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_major">Major</string>
+    <string name="content_description_profile">Profile</string>
+    <string name="content_description_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="content_description_save">Save</string>
+    <string name="save">Save</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="salvar">Salvar</string>
+    <string name="hint_spinner_input_type">Input Type</string>
+    <string name="hint_spinner_activty_type">Activty Type</string>
+    <string name="select">Select</string>
+    <string name="start">Start</string>
+    <string name="history">History</string>
+    <string name="teste">Teste</string>
+    <string name="content_description_profile_image">Profile Image</string>
+    <string name="change">Change</string>
+    <string name="gender">Gender</string>
+
+    <string-array name="input_type">
+        <item>Manual</item>
+        <item>GPS</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="activity_type">
+        <item>Running</item>
+        <item>Swimming</item>
+        <item>Biking</item>
+    </string-array>
+</resources>
